@@ -27,3 +27,8 @@ node_modules/
 *.log
 .DS_Store
 *.Development.json
+MisguidedLogs.SearchEngine/appsettings.json
+
+Dockerfile
+
+k8s/deployment.yaml
